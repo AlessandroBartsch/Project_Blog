@@ -1,2 +1,2 @@
-# Project_Blog
-This is a project developed based on HTML
+# Project_Bog
+This  projeto foi criado para fins de testes.
